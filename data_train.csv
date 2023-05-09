@@ -1,0 +1,131 @@
+question,answer,image_id
+what is the team in blue,williams,image_0001
+how many people are holding mike,4,image_0002
+name the person who is sitting on the leftmost side of sofa,logon,image_0003
+name the logo which is right to aws,crypto.com,image_0004
+who is sitting next to logon,oscar,image_0005
+who is wearing orange tshirt,oscar,image_0006
+what is next to pirelli on the left,rolex,image_0007
+duracell sponser logo is printed on whos tshirt,logon,image_0008
+what shoe color is of nico ,brown,image_0009
+what color tshirt is nico wearing,black,image_0010
+who is sitting in right side of the sofa,fernando,image_0011
+which sponser logo is present on fernando's tshirt ,jcb,image_0012
+what is the interiewer wearing,coat,image_0013
+what is return behind logon,bahr,image_0014
+is logon wearing watch,yes,image_0015
+what is written on mike,fia,image_0016
+what color is the sofa,white,image_0017
+which color is the all the sponsers logos on top,white,image_0018
+what color is logon's watch,black,image_0019
+who is sitting in middle,photu,image_0020
+is nyck wearing a watch,yes,image_0021
+which color watch nyck is wearing,red,image_0022
+to which hand is nyck wearing the watch,left,image_0023
+dell logo is printed on whos tshirt,oscar,image_0024
+whit which hand is fernando holding mike ,left,image_0025
+what is to the right of dhl,qatar,image_0026
+what is to the left of qatar,dhl,image_0027
+what is to the left of aws,qatar,image_0028
+what is to the right of qatar,aws,image_0029
+which logon has a crown ,rolex,image_0030
+which color is rolex written in,white,image_0031
+which letter is behing oscar,N,image_0032
+what is left to msc,crypto.com,image_0033
+whom we can see now,fernando,image_0034
+what is the eye color of fernando,brown,image_0035
+is fernando having beard,yes,image_0036
+what color is the car behind fernando,black,image_0037
+what is the color of mike,black,image_0038
+what is the background color behind car,red,image_0039
+which color is used to write on the red background,white,image_0040
+is the mike visible in this picture,no,image_0041
+what is the font color of the text in background,white,image_0042
+is fernando's eye color brown,yes,image_0043
+is fernando's eye color black,no,image_0044
+is fernando's eye color green,no,image_0045
+is fernando's eye color grey,no,image_0046
+is fernando's eye color blue,no,image_0047
+is fernando's eye's open,no,image_0052
+is fernando's eye's close,no,image_0054
+how many people are there in the picture,3,image_0067
+who is in the middle,oscar,image_0068
+is nyck eyes open,no,image_0069
+is oscar's eyes open,yes,image_0070
+is fernando's shirt visible,no,image_0110
+can we see fernano's teeth,yes,image_0112
+is fernando's teeth visible,no,image_0113
+is fernando's eyes closed and teeth visible,yes,image_0114
+who is nyck looking to,oscar,image_0115
+how many mikes are seen,5,image_0116
+who is nico looking,fernando,image_0117
+who is oscar looking at,nyck,image_0118
+who is logon looking at,oscar,image_0119
+how many rectancles are visible behind logon,7,image_0120
+who is wearning a full sleeves tshirt,nico,image_0121
+is nico's watch visible,yes,image_0123
+what color is the tyre of the car behind nico,white,image_0127
+what is the color of pillow behind nyck,red,image_0128
+what letter is visible in between fernando and nico,R,image_0130
+is there is team with the color orange,mclaren,image_0131
+how many drivers are there in the image,5,image_0131
+which team is to the right of the orange shirt,williams,image_0131
+is there is team with the color green,aston_martin,image_0132
+what brand is to the left of pirelli,rolex,image_0132
+what brand is above jcb,aramco,image_0133
+what brand is below aramco,jcb,image_0133
+what brand is on the microphone,f1,image_0133
+what brand is on the mic,formula_1,image_0133
+what driver is wearing the green tshirt,fernando_alonso,image_0133
+what brand is under the haas logo,money_gram,image_0013
+what team logo is above the moneygram logo,haas,image_0013
+what organization is on the microphone,fia,image_0013
+what driver has white hair,nico_hulkenberg,image_0135
+what team driver has a deep blue tshirt,nyck_de_vries,image_0136
+what logo is under the android logo,dell,image_0137
+what team logo is to the right of the orange tshirt,mclaren,image_0138
+what is the big logo is on the floor,formula_1,image_0139
+what logo is on the blue tshirt,mercedes,image_0140
+what team logo is below the gulf logo,williams,image_0141
+how many drivers are there in the image,5,image_0142
+what team driver is sitting in the middle,charles_leclerc,image_0143
+what team driver is wearing shorts,george_russell,image_0144
+who is on the right most side,interviewer,image_0145
+what team logo is on thr right of the black tshirt,mercedes,image_0146
+what logo is on the top of the black cap of the driver,alfa_romeo,image_0147
+what logo is on the team with the red_tshirt,ferrari,image_0148
+what logo is on the left of the team with a red theme,shell,image_0149
+what driver is in the red tshirt,charles_leclerc,image_0150
+what logo is on the left shoulder of the person in the image,iwc,image_1
+what team does this person belong to?,alfa_romeo,image_2
+which airline logo is there in the background,qatar,image_3
+what year is this conference in,2023,image_4
+what logo is on the right side of this person shirt,santander,image_5
+what engine provider is there on this teams shirt,mercedes,image_6
+is there stake in the image,yes,image_0608
+where is the race held,bahrain,image_0620
+is there moneygram in the picture,yes,image_0152
+what cloud provider is there in the image,aws,image_0634
+what is on the collar of the tshirt of the redbull,zoom,image_0807
+what logo is on the cap of the driver,carnext,image_0813
+is there nico in the picture,yes,image_0185
+what team is there in this black tshirt with red lining,haas,image_0191
+who is in the middle,nyck,image_0378
+is google,android,image_0344
+what is under amg,dorliton,image_0422
+who is on the right of the sofa,george_russell,image_0436
+orange,mclaren,image_0350
+green,aston_martin,image_0387
+dark blue,alpha_tauri,image_0393
+black and red,haas,image_0218
+moneygram,yes,image_0230
+what brand is on the top of the shoulder,tommy_hilfiger,image_0556
+who is in the picture,george_russell,image_0542
+who is in the haas tshirt,nico,image_0224
+who is in the alpha romeo tshirt,zhou,image_0595
+who is in red,charles,image_0581
+deep blue,redbull,image_0768
+bull,redbull,image_0754
+subscribe,subscribe,image_0998
+wings,redbull,image_0740
+grey,alpine,image_0973
